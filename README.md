@@ -2,7 +2,7 @@
 
 Source: [http://mkusner.github.io/](http://mkusner.github.io/)
 
-
+# 修改这个项目，使之运行在python3上，并能够计算中文句子之间的距离
 ![fig1](fig1.png)
 
 Here is version 1.0 of Python and Matlab code for the Word Mover's Distance from the paper ["From Word Embeddings to Document Distances"](http://jmlr.org/proceedings/papers/v37/kusnerb15.pdf)
