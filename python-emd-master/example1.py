@@ -17,7 +17,7 @@ def main():
     features2 = [Feature(0, 0, 0), Feature(50, 100, 80), Feature(255, 255, 255)]
     weights2  = [0.5, 0.3, 0.2]
     
-    print emd( (features1, weights1), (features2, weights2), distance )
+    print(emd( (features1, weights1), (features2, weights2), distance ))
 
 
 if __name__ == "__main__":
